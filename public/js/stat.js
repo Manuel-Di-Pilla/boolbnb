@@ -71318,7 +71318,7 @@ $(document).ready(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\manue\OneDrive\Desktop\boolbnb\resources\js\stat.js */"./resources/js/stat.js");
+module.exports = __webpack_require__(/*! C:\Users\manue\OneDrive\Documenti\Progetto finale boolbnb\boolbnb\resources\js\stat.js */"./resources/js/stat.js");
 
 
 /***/ })

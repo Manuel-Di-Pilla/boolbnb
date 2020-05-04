@@ -11049,7 +11049,7 @@ $(document).ready(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\manue\OneDrive\Desktop\boolbnb\resources\js\create.js */"./resources/js/create.js");
+module.exports = __webpack_require__(/*! C:\Users\manue\OneDrive\Documenti\Progetto finale boolbnb\boolbnb\resources\js\create.js */"./resources/js/create.js");
 
 
 /***/ })
