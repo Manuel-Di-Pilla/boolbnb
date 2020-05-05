@@ -11276,6 +11276,7 @@ header .search-mobile input.search-btn {
   height: 150px;
   overflow: hidden;
   position: relative;
+  border-radius: 10px 10px 0 0;
 }
 
 .jumbotron .promo a .box-flat div img {
