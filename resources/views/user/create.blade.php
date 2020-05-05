@@ -146,7 +146,7 @@
                     <h2>Vuoi rendere visibile il tuo appartamento in un secondo momento?</h2>
                         <div class="radius-container">
                             <div class="radius">
-                                <span>Si</span>
+                                <span>Sì</span>
                                 <input type="radio" name="hidden"value="1">
                             </div>
                             <div class="radius">
@@ -184,7 +184,7 @@
         </div>
     </div>
     <div class="submit-box">
-        <input class="btn btn-primary" id="submit" type="submit" value="Submit">
+        <input class="btn btn-primary" id="submit" type="submit" value="Salva">
     </div>
 </form> 
 
