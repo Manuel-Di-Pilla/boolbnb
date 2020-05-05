@@ -200,7 +200,7 @@
           </span>
         </div>
         <input type="hidden" name="id" value="{{$flats->id}}">
-        <input class='submit' type="submit" value="Submit">
+        <input class='submit' type="submit" value="Invia Messaggio">
       </form>
     </div>
   </div>
