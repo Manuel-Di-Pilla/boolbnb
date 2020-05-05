@@ -51,7 +51,8 @@ class FlatController extends Controller
 
     public function show($slug)
     {
-      $ip = trim(shell_exec("dig +short myip.opendns.com @resolver1.opendns.com"));
+      // $ip = trim(shell_exec("dig +short myip.opendns.com @resolver1.opendns.com"));
+      $ip = Request()->ip();
       $promos = Promo_service::all();
       $flats = Flat::where('slug', $slug)->first();
 
